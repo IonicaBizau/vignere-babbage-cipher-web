@@ -18,7 +18,7 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "dependencies": {
     "elly": "^1.1.10",
-    "vignere-babbage-cipher": "^1.1.0"
+    "vignere-babbage-cipher": "^1.1.2"
   },
   "homepage": "https://github.com/IonicaBizau/vignere-babbage-cipher-web#readme",
   "files": [
