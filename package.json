@@ -10,7 +10,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "scripts": {
     "build": "dist-it lib/index.js main.js"
