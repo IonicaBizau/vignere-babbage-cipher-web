@@ -10,7 +10,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "scripts": {
     "build": "dist-it lib/index.js main.js"
@@ -32,7 +32,8 @@
     "menu/",
     "cli.js",
     "index.js",
-    "index.html",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
